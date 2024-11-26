@@ -41,9 +41,6 @@ This project includes a **Flask backend** and a **React frontend**, with **SQLit
    The frontend will run on `http://localhost:3000`.
 
 ## Running the Project
-
+---
 Make sure both the **Flask backend** and **React frontend** are running. The Flask app handles API requests, and the React app communicates with it.
 
----
-
-This guide provides a quick setup for both the backend and frontend, including database initialization and running the apps.
